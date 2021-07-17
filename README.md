@@ -20,11 +20,11 @@ The main area of focus is :
 
 ### Files
 
-[Time-Series Starter Notebook](Starter_Code/time_series_analysis.ipynb)
+[Time-Series Starter Notebook](time_series_analysis.ipynb)
 
-[Linear Regression Starter Notebook](Starter_Code/regression_analysis.ipynb)
+[Linear Regression Starter Notebook](regression_analysis.ipynb)
 
-[CAD/JPY Data CSV File](Starter_Code/cad_jpy.csv)
+[CAD/JPY Data CSV File](cad_jpy.csv)
 
 - - -
 
